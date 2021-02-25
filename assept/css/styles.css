@@ -51,10 +51,14 @@ color:white;
 .card-small-text{
     opacity: 0.5;
     font-size: 1.1em;
-    margin:10px 0;
+    margin:20px 0;
 }
 .card-follow-button{
     padding:8px 15px;
     background-color: transparent;
     border: 1px solid rgba(202, 199, 199, 0.5);
+}
+.card-followers{
+    padding: 10px;
+    margin: 10px;
 }
